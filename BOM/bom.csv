@@ -1,7 +1,9 @@
-Quantity,Description
-1,Seeed XIAO RP2040
-6,Cherry MX switches
-1,PCB
-1,20MM EC11 Encoder
-6,Blank DSA keycaps
-4,M3x12mm screws
+Quantity,Description,Part Number,Notes
+1,Seeed XIAO RP2040,102010428,Main microcontroller
+6,Cherry MX switches,MX1A-11NW,Mechanical keyboard switches
+1,PCB,Custom,3x2 matrix PCB design
+1,20MM EC11 Encoder,EC11,Rotary encoder with switch
+6,Blank DSA keycaps,DSA-Blank,PBT plastic
+4,M3x12mm screws,M3-12,For case mounting
+1,0.91 inch OLED display,SSD1306,128x32 I2C display
+6,1N4148 diodes,1N4148,Signal diodes for matrix
