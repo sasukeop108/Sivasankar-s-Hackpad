@@ -9,7 +9,6 @@ Quantity,Description,Part Number,Notes
 6,1N4148 diodes,1N4148,Signal diodes for matrix
 Bill of Materials (BOM) - Fusion 360 Hackpad
 
-Item,Description,Quantity,Cost
 PCB,3x2 Matrix PCB (Custom design),1,$13.82
 3D Printed Case,Enclosure with shipping,1,$6.00
 
