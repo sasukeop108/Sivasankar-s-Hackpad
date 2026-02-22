@@ -1,8 +1,6 @@
 # Sivasankar-s-Hackpad
 This is the hackpad built by me for using fusion 360. It has cool features like ntp clock for seeing the time in hackpad display when no buttons are pressed. I made this project because i had recently purchased a PC using kmk and xiao rp2040
 
-# Fusion 360 Hackpad - Complete Documentation
-
 ## Bill of Materials (BOM)
 
 | Quantity | Description |
@@ -13,6 +11,8 @@ This is the hackpad built by me for using fusion 360. It has cool features like 
 | 1 | 20MM EC11 Encoder |
 | 6 | Blank DSA keycaps |
 | 4 | M3x12mm screws |
+| 1 | 0.91 inch OLED display (128x32) |
+| 6 | 1N4148 diodes |
 
 ## Schematic
 ![Sch](https://github.com/sasukeop108/Sivasankar-s-Hackpad/blob/main/Images/sch.png)
