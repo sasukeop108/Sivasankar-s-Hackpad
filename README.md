@@ -14,4 +14,5 @@ This is the hackpad built by me for using fusion 360. It has cool features like 
 | 6 | Blank DSA keycaps |
 | 4 | M3x12mm screws |
 
-## Circuit Diagram
+## Schematic
+[Sch](https://github.com/sasukeop108/Sivasankar-s-Hackpad/blob/main/Images/sch.png)
