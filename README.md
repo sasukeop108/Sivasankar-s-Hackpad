@@ -10,7 +10,7 @@ This is the hackpad built by me for using fusion 360. It has cool features like 
 | 6 | Cherry MX switches | MX1A-11NW | Mechanical keyboard switches |
 | 1 | 20MM EC11 Encoder | EC11 | Rotary encoder with switch |
 | 6 | Blank DSA keycaps | DSA-Blank | PBT plastic |
-| 4 | M3x12mm screws | M3-12 | For case mounting |
+| 4 | M3x16mm screws | M3-12 | For case mounting |
 | 1 | 0.91 inch OLED display | SSD1306 | 128x32 I2C display |
 | 6 | 1N4148 diodes | 1N4148 | Signal diodes for matrix |
 | 1 | Custom PCB | 3x2 Matrix | Fabrication & Shipping ($13.82) |
