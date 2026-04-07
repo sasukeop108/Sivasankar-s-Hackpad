@@ -1,7 +1,10 @@
 # Sivasankar-s-Hackpad
 This is the hackpad built by me for using fusion 360.I made this project because i had recently purchased a PC using kmk and xiao rp2040 with 3*2 matrix and 7 buttons with volume control and the functions of these buttons can be changed.
-
-
+# Finished build
+![WhatsApp Image 2026-03-21 at 17 15 26](https://github.com/user-attachments/assets/769107ac-433a-405e-af72-45c45d23b119)
+![WhatsApp Image 2026-03-21 at 16 56 17](https://github.com/user-attachments/assets/8ef1a2f9-e319-4783-a956-c0d79948a412)
+## demo url
+https://www.youtube.com/watch?v=a13I9GXyd40
 ## Bill of Materials (BOM)
 
 | Quantity | Description | Part Number | Notes |
